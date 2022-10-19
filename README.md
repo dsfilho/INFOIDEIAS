@@ -57,3 +57,5 @@ Teste 1ª Fase
     [123, -17, -5, 1, 2, 3, 12, 43, 45] true
     [3, 5, 67, 98, 3] true
 
+
+Para rodar os desafios bastar clonar o repositório e colocar os arquivos dentro da pasta public do seu servidor web.
